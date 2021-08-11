@@ -1,0 +1,2 @@
+# Implementation-of-the-Wang-Landau-algorithm
+The Wang-Landau algorithm based on the Monte Carlo method is proposed by Fugao Wang  and David Landau [1] to calculate density of the states(DOS) efficiently. This method constructs  the DOS through non-Markov random transitions, traversing all possible states. After reviewing  Wang-Landau algorithm, the analysis of the results through the implementation in Python for 2D  Ising model is shown in this short report.
